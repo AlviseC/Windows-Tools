@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue)
+![Category](https://img.shields.io/badge/Category-System%20Repair-orange)
+![Community](https://img.shields.io/badge/Community-AngoloDiWindows-0078d4)
+
 # Windows Update & Network Reset Tool
 **Un utility batch per ripristinare i componenti di Windows Update e ottimizzare la rete.**
 
